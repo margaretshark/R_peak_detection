@@ -1,0 +1,7 @@
+212 2 360 650000
+212.dat 212 1085.6425283648634(-196)/mV 12 0 -564 28114 0 MLII
+212.dat 212 722.6006191950464(287)/mV 12 0 323 25199 0 V1
+# 32 F 2879 171 x1
+# None
+# There is rate-related right bundle branch block which appears when the heart
+# rate exceeds approximately 90 bpm.

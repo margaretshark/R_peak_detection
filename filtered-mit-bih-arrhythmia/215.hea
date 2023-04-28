@@ -1,0 +1,7 @@
+215 2 360 650000
+215.dat 212 1210.3358590614675(-707)/mV 12 0 -628 2783 0 MLII
+215.dat 212 1232.9032258064515(-136)/mV 12 0 92 61284 0 V1
+# 81 M 2633 694 x1
+# None
+# The PVCs are multiform.  There are two very short occurrences of tape slippage
+# (each less than one second in duration).
